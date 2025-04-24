@@ -85,4 +85,4 @@
     <section class="contact">
       <h2>Contact</h2>
       <p>Email: <span id="email">[Click to reveal]</span></p>
-      <p>Phone: <span id="phone">[Click to
+      <p>Phone: <span id="phone">[Click to reveal】</span></p>
